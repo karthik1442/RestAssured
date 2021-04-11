@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-10T21:53:36 MDT" name="Default suite" finished-at="2021-04-10T21:53:42 MDT" duration-ms="6376">
+    <groups>
+    </groups>
+    <test started-at="2021-04-10T21:53:36 MDT" name="Default test" finished-at="2021-04-10T21:53:42 MDT" duration-ms="6376">
+      <class name="Testscripts.TestCaseBddGet">
+        <test-method signature="GetGoogleApi()[pri:0, instance:Testscripts.TestCaseBddGet@78b1cc93]" started-at="2021-04-10T21:53:36 MDT" name="GetGoogleApi" finished-at="2021-04-10T21:53:42 MDT" duration-ms="6017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetGoogleApi -->
+        <test-method signature="GetjsonApi()[pri:1, instance:Testscripts.TestCaseBddGet@78b1cc93]" started-at="2021-04-10T21:53:42 MDT" name="GetjsonApi" finished-at="2021-04-10T21:53:42 MDT" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetjsonApi -->
+      </class> <!-- Testscripts.TestCaseBddGet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
